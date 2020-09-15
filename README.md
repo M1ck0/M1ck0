@@ -20,7 +20,7 @@
 
 ## My stats
 
-https://github-readme-stats.codestackr.vercel.app/api?username=m1ck0&show_icons=true&hide_border=true
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 <!--
 **M1ck0/M1ck0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
