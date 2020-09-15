@@ -1,16 +1,12 @@
 ## Hello 😄
 I am Mileta Dulovic, a 22 years old Front End Developer from Podgorica, Montenegro.
 
-<hr/>
-
-### You can find me on
+## You can find me on
 
 [<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22">][linkedin]
 [<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" width="22">][stackoverflow]
 
-<hr/>
-
-### Language and tools
+## Language and tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -22,6 +18,8 @@ I am Mileta Dulovic, a 22 years old Front End Developer from Podgorica, Monteneg
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<hr/>
 
 <!--
 **M1ck0/M1ck0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
