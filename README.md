@@ -1,6 +1,8 @@
 ## Hello 😄
 I am Mileta Dulovic, a 22 years old Front End Developer from Podgorica, Montenegro.
 
+<hr/>
+
 ### You can find me on
 
 [<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22">][linkedin]
