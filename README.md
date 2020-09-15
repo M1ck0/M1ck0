@@ -2,8 +2,8 @@
 
 You can find me on:
 
-[<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22">](https://www.linkedin.com/in/mileta-dulovic/)
-[<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" width="22">](https://stackoverflow.com/users/10765428/mileta-dulovic?tab=profile)
+[<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22">][linkedin]
+[<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" width="22">][stackoverflow]
 
 <!--
 **M1ck0/M1ck0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin]: https://www.linkedin.com/in/mileta-dulovic/
+[stackoverflow]: https://stackoverflow.com/users/10765428/mileta-dulovic?tab=profile
