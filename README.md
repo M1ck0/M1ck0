@@ -1,6 +1,7 @@
 ### Hi there coders 👋
 
 You can find me on:
+
 [<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22">](https://www.linkedin.com/in/mileta-dulovic/)
 
 <!--
