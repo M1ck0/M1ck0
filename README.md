@@ -1,11 +1,14 @@
-## You can find me on
+## Hello 😄
+I am Mileta Dulovic, a 22 years old Front End Developer from Podgorica, Montenegro.
+
+### You can find me on
 
 [<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22">][linkedin]
 [<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" width="22">][stackoverflow]
 
 <br/>
 
-## Language and tools
+### Language and tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
