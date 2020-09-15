@@ -1,4 +1,7 @@
-### Hi there coder👋
+### Hi there coders 👋
+
+You can find me on:
+[<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">][linkedin]
 
 <!--
 **M1ck0/M1ck0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
