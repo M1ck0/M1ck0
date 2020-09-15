@@ -3,6 +3,7 @@
 [<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22">][linkedin]
 [<img src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" width="22">][stackoverflow]
 
+<br/>
 
 ## Language and tools
 
