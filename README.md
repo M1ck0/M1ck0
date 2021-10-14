@@ -1,12 +1,7 @@
 [![Website](https://img.shields.io/website?label=micko.dev&style=for-the-badge&url=https%3A%2F%2Fmicko.dev)](https://micko.dev)
 
 ## Hello 😄
-I am Mileta Dulovic, a 22 years old Front End Developer from Podgorica, Montenegro.
-
-## You can find me on
-
-[<img src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="18" style="fill: '#0A66C2'">][linkedin]
-[<img src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" width="18">][stackoverflow]
+I am Mileta Dulovic, a 23 years old Front End Developer from Podgorica, Montenegro.
 
 ## Language and tools
 
