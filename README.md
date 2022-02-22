@@ -1,5 +1,3 @@
-# [![Website](https://img.shields.io/website?label=miletadulovic.me&style=for-the-badge&url=https%3A%2F%2Fmiletadulovic.me)](https://miletadulovic.me)
-
 ## Hello 😄
 I am Mileta Dulovic, a 23 years old Front End Developer from Podgorica, Montenegro.
 
