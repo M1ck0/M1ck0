@@ -1,5 +1,5 @@
 ## Hello 😄
-I am Mileta Dulovic, a 23 years old Front End Developer from Podgorica, Montenegro.
+I am Mileta Dulovic, a 24 years old Front End Developer from Podgorica, Montenegro.
 
 ## Language and tools
 
